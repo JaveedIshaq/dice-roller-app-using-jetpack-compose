@@ -2,4 +2,4 @@
 Dice Roller Android App using jetpack Compose
 
 
-![A Flutter googl_products_app ](https://github.com/JaveedIshaq/google-products-app/blob/master/screenshot-2021-08-16_21.31.37.229.png?raw=true)
+![A Simple Role the Dice App with Compose ](https://github.com/JaveedIshaq/dice-roller-app-using-jetpack-compose/blob/master/screenshot-2021-08-19_16.40.34.126.png?raw=true)
